@@ -4,10 +4,10 @@
 </div>
 
 <div id="socials" align="center">
-	<a href="twitter-url">
+	<a href="https://vk.com/id25339941">
 		<img src="https://img.shields.io/badge/vk-9572bf?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter"/>
 	</a>
-	<a href="telegram-url">
+	<a href="https://t.me/Dariajurr">
 		<img src="https://img.shields.io/badge/Telegram-9572bf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
  </div>
