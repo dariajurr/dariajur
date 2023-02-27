@@ -35,9 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="  https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" title="ExpressJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://img.icons8.com/color/512/mongodb.png" title="MongoDB" alt="NodeJS" width="40" height="40"/>&nbsp;
-
+	<img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+      <img src="https://img.icons8.com/color/512/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
