@@ -44,3 +44,5 @@
 ---
 ### :fire: My Stats :
 
+![](http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/profile-details?username=dariajurr&theme=tokyonight)
+![](http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/most-commit-language?username=dariajurr&theme=tokyonight) ![](http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/stats?username=dariajurr&theme=tokyonight)
